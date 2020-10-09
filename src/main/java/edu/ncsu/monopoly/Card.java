@@ -1,4 +1,5 @@
 package edu.ncsu.monopoly;
+//I	 have	 added	 a	 comment
 
 public abstract class Card {
 
